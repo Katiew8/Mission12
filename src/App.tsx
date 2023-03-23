@@ -4208,8 +4208,8 @@ function App() {
           <br></br>
           <p>
             This website will list out information for all of the colleges in
-            NCAA Basketball. Each team will hacve a card showing the School
-            name, Mascot name, and Location.
+            NCAA Basketball. Each team will have a card showing the School name,
+            Mascot name, and Location.
           </p>
         </div>
       </header>
